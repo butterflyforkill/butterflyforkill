@@ -1,5 +1,6 @@
 ## Hi there <img src="https://cdn3.emoji.gg/emojis/54147-gojosaludando.png" width="64px" height="64px" alt="gojosaludando"></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=butterflyforkill.butterflyforkill)
+[![Linkedin: anmol](https://img.shields.io/badge/-PolinaVasiuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PolinaVasiuk-p-singh/)](https://www.linkedin.com/in/polina-vasiuk-006a451ba/)
 
 I'm Polina! Backend developer, currently in learning proccess in Masterschool as Software Engineer.
 
