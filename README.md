@@ -1,4 +1,5 @@
 ## Hi there <img src="https://cdn3.emoji.gg/emojis/54147-gojosaludando.png" width="64px" height="64px" alt="gojosaludando"></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=butterflyforkill.butterflyforkill)
 
 I'm Polina! Backend developer, currently in learning proccess in Masterschool as Software Engineer.
 
@@ -11,7 +12,7 @@ class Molina_404:
         self.name = "Polina"
         self.role = "Backend Developer"
         self.language_spoken = ["ua_UA", "en_US"]
-        self.hobbies = ["anime", "manga", "kpop"]
+        self.hobbies = ["anime", "manga", "kpop", "games"]
 
     def say_hi(self):
         print("Nice to see you here. Stay, if you want")
@@ -32,7 +33,7 @@ me.say_hi()
      <img src="https://img.shields.io/badge/Javascript-blue?logo=Javascript&logoSize=auto"/> <img src="https://img.shields.io/badge/SQL-green?logo=SQL&logoSize=auto"/>
  <br>
  
-🔭 I have 3 years expirience in functional programming  <img src="https://img.shields.io/badge/Erlang-green?logo=erlang&logoColor=red&logoSize=auto"/> 
+🔭 I have 3 years expirience of functional programming  <img src="https://img.shields.io/badge/Erlang-green?logo=erlang&logoColor=red&logoSize=auto"/> 
 <img src="https://cdn3.emoji.gg/emojis/40382-suka.png" width="64px" height="64px" alt="Suka"> 
 <br> <br>
 
