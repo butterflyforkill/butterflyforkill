@@ -5,8 +5,9 @@ I'm Polina!
 - 🌱 I’m currently learning
   <br> <br>
   <img src="https://img.shields.io/badge/Python-green?logo=Python&logoSize=auto"/>
+  <br> <br>
 - 👾 refreshing my knowledge in:
   <br> <br>
      <img src="https://img.shields.io/badge/HTML-green?logo=HTML&logoSize=auto"/> <img src="https://img.shields.io/badge/CSS-green?logo=CSS&logoSize=auto"/>
-     <img src="https://img.shields.io/badge/Javascript-blue?logo=Javascript&logoSize=auto"/>
+     <img src="https://img.shields.io/badge/Javascript-blue?logo=Javascript&logoSize=auto"/> <img src="https://img.shields.io/badge/SQL-green?logo=SQL&logoSize=auto"/>
 - 🔭 I have 3 years expirience in functional programming  <img src="https://img.shields.io/badge/Erlang-green?logo=erlang&logoColor=red&logoSize=auto"/> 
