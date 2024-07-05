@@ -1,6 +1,25 @@
 ## Hi there <img src="https://cdn3.emoji.gg/emojis/54147-gojosaludando.png" width="64px" height="64px" alt="gojosaludando"></a>
 
-I'm Polina! Backend developer, currently in learning proccess 
+I'm Polina! Backend developer, currently in learning proccess in Masterschool as Software Engineer.
+
+```python
+
+
+class Molina_404:
+
+    def __init__(self):
+        self.name = "Polina"
+        self.role = "Backend Developer"
+        self.language_spoken = ["ua_UA", "en_US"]
+        self.hobbies = ["anime", "manga", "kpop"]
+
+    def say_hi(self):
+        print("Nice to see you here. Stay, if you want")
+
+
+me = Molina_404()
+me.say_hi()
+```
 
 🌱 I’m learning
   <br> <br>
