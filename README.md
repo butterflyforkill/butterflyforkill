@@ -18,7 +18,7 @@ I'm Polina! Backend developer, currently in learning proccess in Masterschool as
      <img src="https://img.shields.io/badge/Javascript-blue?logo=Javascript&logoSize=auto"/> <img src="https://img.shields.io/badge/SQL-green?logo=SQL&logoSize=auto"/>
  
  
-🔭 I have 3 years expirience of functional programming  <img src="https://img.shields.io/badge/Erlang-green?logo=erlang&logoColor=red&logoSize=auto"/> 
+🔭 I have 3 years experience of functional programming  <img src="https://img.shields.io/badge/Erlang-green?logo=erlang&logoColor=red&logoSize=auto"/> 
 <img src="https://cdn3.emoji.gg/emojis/40382-suka.png" width="64px" height="64px" alt="Suka"> 
 <br> 
 <br>
