@@ -53,6 +53,8 @@ me.stop_procrastinating()
 
 <b> Programming languages and tools: </b> <br>
 <img src="https://img.shields.io/badge/Erlang-white?style=for-the-badge&logo=Erlang&logoColor=red"/> 
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoSize=auto"/>
+<img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=Javascript&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=VS%20Code"/> 
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT"/> 
 <img src="https://img.shields.io/badge/Makefile-red?style=for-the-badge&logo=Makefile"/> 
@@ -64,8 +66,9 @@ me.stop_procrastinating()
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=Javascript&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=REACT&logoColor=green&logoSize=auto"/> 
+
+ 
 <p>✩♬ ₊˚.🎧⋆☾⋆⁺₊✧</p>
 
 <p>★Connected ★ 𐒡𝛫𝛧 ★ 🖇::🐺©h@n༅ ★ ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 2:52</p>
