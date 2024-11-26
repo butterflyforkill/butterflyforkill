@@ -67,6 +67,7 @@ me.stop_procrastinating()
 <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=REACT&logoColor=green&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/Kubernetis-black?style=for-the-badge&logo=Kubernetis&logoColor=green&logoSize=auto"/> 
 
  
 <p>✩♬ ₊˚.🎧⋆☾⋆⁺₊✧</p>
