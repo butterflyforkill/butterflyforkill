@@ -5,7 +5,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="23" />
 </a>
 
-I'm Polina! Backend developer, currently in learning proccess in Masterschool as Software Engineer. 
+I'm Polina! Backend developer, currently successfully completed an intensive software engineering program at Masterschool. 
 
 🌱 I’m learning
   <br>
