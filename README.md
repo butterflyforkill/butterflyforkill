@@ -61,7 +61,7 @@ me.stop_procrastinating()
 <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=Javascript&logoSize=auto"/> 
