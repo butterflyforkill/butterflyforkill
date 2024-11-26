@@ -19,7 +19,8 @@ I'm Polina! Backend developer, currently successfully completed an intensive sof
      <img src="https://img.shields.io/badge/HTML-green?logo=HTML&logoSize=auto"/> <img src="https://img.shields.io/badge/CSS-green?logo=CSS&logoSize=auto"/>
      <img src="https://img.shields.io/badge/Javascript-blue?logo=Javascript&logoSize=auto"/> <img src="https://img.shields.io/badge/SQL-green?logo=SQL&logoSize=auto"/>
      <img src="https://img.shields.io/badge/OOP-green?logo=OOP&logoColor=green&logoSize=auto"/> 
-     <img src="https://img.shields.io/badge/REST%20API-green?logo=REST-API&logoColor=green&logoSize=auto"/> 
+     <img src="https://img.shields.io/badge/REST%20API-green?logo=REST-API&logoColor=green&logoSize=auto"/>
+     <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL&logoColor=green&logoSize=auto"/>
  
  
 🔭 I have 3 years experience of functional programming  <img src="https://img.shields.io/badge/Erlang-green?logo=erlang&logoColor=red&logoSize=auto"/> 
