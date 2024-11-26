@@ -7,9 +7,11 @@
 
 I'm Polina! Backend developer, currently successfully completed an intensive software engineering program at Masterschool. 
 
-🌱 I’m learning
+🌱 I’m learned
   <br>
   <img src="https://img.shields.io/badge/Python-green?logo=Python&logoSize=auto"/>
+  <img src="https://img.shields.io/badge/FLASK-green?logo=FLASK&logoColor=green&logoSize=auto&label=FLASK"/>
+  <img src="https://img.shields.io/badge/FastAPI-green?logo=FastAPI&logoColor=green&logoSize=auto&label=FastAPI"/>
   <br> 
   
 👾 refreshing my knowledge in:
