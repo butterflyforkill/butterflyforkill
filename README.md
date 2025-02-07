@@ -35,7 +35,7 @@ class Molina_404:
 
     def __init__(self):
         self.name = "Polina"
-        self.role = "Backend Developer"
+        self.role = "Software Developer"
         self.language_spoken = ["ua_UA", "en_US"]
         self.hobbies = ["anime", "manga", "kpop", "games"]
 
