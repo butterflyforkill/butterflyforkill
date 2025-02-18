@@ -4,6 +4,7 @@
 <a href="mailto:vasse.paul@gmail.com" target="_blank" rel="email_gmail">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="23" />
 </a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D013F05)
 
 I'm Polina! Software developer, currently successfully completed an intensive software engineering program at Masterschool. 
 
